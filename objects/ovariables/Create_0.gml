@@ -1,0 +1,21 @@
+// player variables
+global.gamePaused =false;
+global.walkspeed = 4;
+global.grav = 0.2;
+global.hascontrol = true;
+global.hasgun = false;
+global.bulletSpeed= 0;
+global.enemySize= 1;
+global.enemyGrav = 0.2;
+global.score=0;
+global.playerSize= 1;
+global.level =1;
+global.xp= 0;
+global.maxXP= 0;
+global.selected=false;
+global.droneDamage=false;
+global.damage=false;
+global.protect=false;
+global.xTo=xstart;
+global.yTo=ystart;
+global.select=false;

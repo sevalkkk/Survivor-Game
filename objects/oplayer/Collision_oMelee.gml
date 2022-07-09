@@ -1,0 +1,1 @@
+shader_set(shWhite);
